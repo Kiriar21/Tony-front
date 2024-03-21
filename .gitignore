@@ -12,6 +12,8 @@
 /build
 
 .env
+/src/Compontents/Talk
+
 
 # misc
 .DS_Store
