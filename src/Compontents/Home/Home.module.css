@@ -1,0 +1,8 @@
+.homeMainContent {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.homeService {
+    margin-bottom: 10vh;
+}
